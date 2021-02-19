@@ -1,7 +1,7 @@
 {
   "name": "larpwesley-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "use puppeteer to scraping available game time from larpwesley",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
