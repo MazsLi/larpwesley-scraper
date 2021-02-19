@@ -10,11 +10,11 @@ const dateStart = '2021-02-27', dateEnd = '2021-02-27', location = 'all', diffic
 ```
 
 ## Result
-show query condition and result
+show query condition and result  
 ![result](./assets/result.jpg)
 
 ## Script / Location info
-show script and location list 
+show script and location list  
 ![result](./assets/list.jpg)
 
 [larp wesley book system](https://larpwesley.simplybook.asia/v2/#book/count/1/provider/any/)
